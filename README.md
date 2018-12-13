@@ -18,7 +18,7 @@ npm install ng2-ion-range-slider --save
 ```
 
 #### Setup scripts and styles
-If you use angular-cli, add ``jquery`` and ``ion-range-slider`` to the scripts section of ``.angular-cli.json``
+If you use angular-cli, add ``jquery`` and ``ion-range-slider`` to the scripts section of ``.angular-cli.jso``
 ```
 {
   ...
@@ -32,7 +32,7 @@ If you use angular-cli, add ``jquery`` and ``ion-range-slider`` to the scripts s
       ...   
 ```
 
-Also add the ion-range-slider style and skin css to the styles section in your ``.angular-cli.json``
+Also add the ion-range-slider style and skin css to the styles section in your ``.angular-cli.jso``
 ```
 {
   ...
